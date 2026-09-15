@@ -6,9 +6,6 @@ using namespace std;
 class Curso
 {
 private:
-    static const float NOTA_MINIMA;
-    static const float NOTA_MAXIMA;
-    static const float NOTA_APROBATORIA;
     string codigo;
     string nombre;
     int capacidadMaxima;

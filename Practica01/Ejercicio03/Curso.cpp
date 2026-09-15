@@ -3,9 +3,6 @@
 
 using namespace std;
 
-const float Curso::NOTA_MINIMA = 0.0f;
-const float Curso::NOTA_MAXIMA = 20.0f;
-const float Curso::NOTA_APROBATORIA = 11.0f;
 
 Curso::Curso() : codigo(""), nombre(""), capacidadMaxima(0) {}
 
